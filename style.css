@@ -1,0 +1,62 @@
+.kaftor button {
+    background-color:rgb(255, 4, 4);
+    color:#ffffff;
+    width: 300px;
+    height: 40px;
+    font-size: large;
+    border: transparent;
+    border-radius: 5px
+}
+.me {
+    height: 465px;
+    width: 420px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+  
+
+  .password
+  {
+    height: 25px;
+    width: 175px;
+  }
+
+  .username {
+    height: 25px;
+    width: 175px;
+  }
+
+  .signin {
+    font-weight: bold;
+    color: rgb(15, 14, 14);
+    margin-bottom: 10px
+  }
+
+  .LOGIN {
+    height: 20px;
+  }
+
+  .space {
+
+    padding-left: 107px;
+    font-size: smaller;
+  }
+  .space2 {
+    padding-left: 57px;
+    font-size: small;
+  }
+
+.left2 {
+  margin-left: 30%;
+}
+
+.placeholder {
+  font-size: larger;
+}
+
+.damn {
+  font-size: small;
+}
